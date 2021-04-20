@@ -34,10 +34,15 @@ body{
   line-height: 20px;
   color: #333333;
 }
-/* hide element */
-  .hide:before .hide:hover
-  .hide:after  .hide:focus{
-    filter: opacity(0%);
+/* hide element by default  */
+  .hide .hide-item
+  {
+    opacity: 0;
+  }
+  .hide:hover .hide-item
+  .hide:focus .hide-item .Spoiler{
+    opacity: 100%;
+    filter: opacity(100%);
   }
 /*.btn{
   padding: 4px 12px;
@@ -226,8 +231,6 @@ nav {
   }
 
 }
-
-
 
 footer{
   background-color: red;
