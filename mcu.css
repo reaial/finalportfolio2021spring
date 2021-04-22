@@ -46,6 +46,9 @@ body{
   .hide:focus .hide-item {
     opacity: 100%;
     filter: opacity(100%);
+    font-style: normal;
+    font-family: monospace;
+    font-weight: bold;
   }
 
 
