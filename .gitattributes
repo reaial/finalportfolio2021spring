@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+BLMredoargument.psd filter=lfs diff=lfs merge=lfs -text
+finalphoto.psd filter=lfs diff=lfs merge=lfs -text
