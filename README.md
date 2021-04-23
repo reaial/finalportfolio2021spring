@@ -1,11 +1,6 @@
 # finalportfolio2021spring
- end of the year project
 
- yes I got it to go to git desktop!
 
- small victories
-
- this is going to include all of my work fro the entire semester. For my final project I plan on working  
-on editing my visual argument, and I want to add a few more aspirational things to my website.
+  This is the final for my visual argument which I turned into a series. Attached in this file is the feedback from people from that workshop day in class. I have also provided screenshots of the work that was made before for the website. I have also linked the sources in here for the visual argument, and the website. Although the website now has a sources page. I had a lot of fun finishing up these projects and I hope that you enjoy the works as well. 
 
 Here is the link to the live website! <a href="https://reaial.github.io/finalportfolio2021spring/">https://reaial.github.io/finalportfolio2021spring/</a>
